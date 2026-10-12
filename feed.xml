@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vince&#x27;s Podcasts</title>
+    <link>https://vinceplanetta-oss.github.io/Podcasts/</link>
+    <atom:link href="https://vinceplanetta-oss.github.io/Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private podcasts made by Claude for Vince.</description>
+    <language>en-us</language>
+    <itunes:author>Vince Planetta</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Carpenter Who Found the Longitude</title>
+      <description>How John Harrison, a self taught country carpenter, built clocks of wood and brass that let sailors find their way at sea.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-2355-the-carpenter-who-found-the-longitude.mp3" length="10799064" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-2355-the-carpenter-who-found-the-longitude.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 23:55:30 +0000</pubDate>
+      <itunes:duration>00:22:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The People of the Buffalo</title>
+      <description>The Osage, Cherokee, Shawnee and Delaware along the Buffalo River from the 1700s to the early 1900s, and how they came to leave.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-1707-the-people-of-the-buffalo.mp3" length="2843838" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-1707-the-people-of-the-buffalo.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 17:07:11 +0000</pubDate>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Walking House, Episode 1: The Lantern Girl (Full Cast)</title>
+      <description>Dramatized with a full cast, music and sound effects. A lantern maker joins a wizard and his walking house. Made for Marie.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0203-the-walking-house-episode-1-the-lantern-girl-full-cast.mp3" length="8147740" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0203-the-walking-house-episode-1-the-lantern-girl-full-cast.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 02:03:09 +0000</pubDate>
+      <itunes:duration>00:16:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Unicorn of Moonlight Hollow</title>
+      <description>A short bedtime poem about a unicorn, made for Marie.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0133-the-unicorn-of-moonlight-hollow.mp3" length="269000" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0133-the-unicorn-of-moonlight-hollow.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 01:33:25 +0000</pubDate>
+      <itunes:duration>00:00:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Hidden Centuries: The Ozarks Before Europeans</title>
+      <description>The Ozarks from the time of Jesus to the arrival of Europeans, from the bluff shelters to the Osage and de Soto.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-the-hidden-centuries-the-ozarks-before-europeans.mp3" length="12983946" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-the-hidden-centuries-the-ozarks-before-europeans.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:04 +0000</pubDate>
+      <itunes:duration>00:27:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Journey of John Henry Newman</title>
+      <description>How studying the Church Fathers led John Henry Newman from Anglican priest to Catholic cardinal.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-the-journey-of-john-henry-newman.mp3" length="12726065" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-the-journey-of-john-henry-newman.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:02 +0000</pubDate>
+      <itunes:duration>00:26:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Saint Cyprian on Works and Alms</title>
+      <description>Saint Cyprian of Carthage&#x27;s treatise on almsgiving and good works, set beside the Anglican doctrine of justification by faith alone.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-saint-cyprian-on-works-and-alms.mp3" length="12090140" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-saint-cyprian-on-works-and-alms.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:00 +0000</pubDate>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Healing Waters of Hot Springs</title>
+      <description>The history of Hot Springs, Arkansas, and the tension between folk belief in the healing waters and the medicine of the day.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0032-the-healing-waters-of-hot-springs.mp3" length="11391939" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0032-the-healing-waters-of-hot-springs.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:32:58 +0000</pubDate>
+      <itunes:duration>00:23:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
