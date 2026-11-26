@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vince&#x27;s Podcasts</title>
+    <link>https://vinceplanetta-oss.github.io/Podcasts/</link>
+    <atom:link href="https://vinceplanetta-oss.github.io/Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private podcasts made by Claude for Vince.</description>
+    <language>en-us</language>
+    <itunes:author>Vince Planetta</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Magnifica Humanitas 1 of 7: Introduction</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163628_F139163628.mp3" length="26251392" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-1.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:55 +0000</pubDate>
+      <itunes:duration>00:27:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 2 of 7: Chapter One</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163637_F139163637.mp3" length="39025536" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-2.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:54 +0000</pubDate>
+      <itunes:duration>00:40:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 3 of 7: Chapter Two</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163635_F139163635.mp3" length="54831360" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-3.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:53 +0000</pubDate>
+      <itunes:duration>00:57:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 4 of 7: Chapter Three</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163630_F139163630.mp3" length="41374080" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-4.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:52 +0000</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 5 of 7: Chapter Four</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163638_F139163638.mp3" length="65126784" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-5.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:51 +0000</pubDate>
+      <itunes:duration>01:07:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 6 of 7: Chapter Five</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163627_F139163627.mp3" length="43468800" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-6.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:50 +0000</pubDate>
+      <itunes:duration>00:45:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Magnifica Humanitas 7 of 7: Conclusion</title>
+      <description>English audiobook by Vatican News of Pope Leo XIV&#x27;s encyclical.</description>
+      <enclosure url="https://media.vaticannews.va/media2/audio/s1/2026/06/01/17/139163643_F139163643.mp3" length="25671936" type="audio/mpeg"/>
+      <guid isPermaLink="false">vatican-magnifica-humanitas-en-7.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 05:33:49 +0000</pubDate>
+      <itunes:duration>00:26:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gregory of Nazianzus, On the Holy Spirit, Part 1 of 3</title>
+      <description>Fifth Theological Oration, chapters 1 to 11: the charge of a strange God, the Spirit as God, begotten, unbegotten and proceeding.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-1-of-3.mp3" length="8216494" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-1-of-3.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 17:29:54 +0000</pubDate>
+      <itunes:duration>00:17:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gregory of Nazianzus, On the Holy Spirit, Part 2 of 3</title>
+      <description>Fifth Theological Oration, chapters 12 to 22: worship of the Spirit, three Gods or one, counting and essence, and the silence of Scripture.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-2-of-3.mp3" length="8450969" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-2-of-3.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 17:29:43 +0000</pubDate>
+      <itunes:duration>00:17:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gregory of Nazianzus, On the Holy Spirit, Part 3 of 3</title>
+      <description>Fifth Theological Oration, chapters 23 to 33: names and things, the silence of Scripture, gradual revelation, the testimonies for the Spirit, and why every earthly image falls short.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-3-of-3.mp3" length="8759423" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261113-1729-gregory-of-nazianzus-on-the-holy-spirit-part-3-of-3.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 17:29:32 +0000</pubDate>
+      <itunes:duration>00:18:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Do This in Memory of Me: The Story of the Liturgy</title>
+      <description>The history of the Church&#x27;s worship from the Last Supper to today: Jewish roots, Justin Martyr, the first written prayers, Greek to Latin, East and West, the Middle Ages, Trent, Vatican II, and where the Latin Mass stands now.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261110-1419-do-this-in-memory-of-me-the-story-of-the-liturgy.mp3" length="11953885" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261110-1419-do-this-in-memory-of-me-the-story-of-the-liturgy.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 14:19:24 +0000</pubDate>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Augustine and the Days of Creation</title>
+      <description>A walk through Saint Augustine&#x27;s The Literal Meaning of Genesis: his warning about Christians and science, the days as angelic knowledge, creation all at once, seed principles, and his young earth view.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261101-0216-augustine-and-the-days-of-creation.mp3" length="12042075" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261101-0216-augustine-and-the-days-of-creation.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 02:16:28 +0000</pubDate>
+      <itunes:duration>00:25:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Dignity of Woman: John Paul II&#x27;s Mulieris Dignitatem</title>
+      <description>A chapter by chapter walk through John Paul II&#x27;s 1988 letter on the dignity and vocation of women, with a close look at sections 10 and 24 on Genesis 3 and Ephesians 5.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261101-0133-the-dignity-of-woman-john-paul-ii-s-mulieris-dignitatem.mp3" length="9755211" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261101-0133-the-dignity-of-woman-john-paul-ii-s-mulieris-dignitatem.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 01:33:00 +0000</pubDate>
+      <itunes:duration>00:20:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Submission, Wisdom, and the Modern Marriage</title>
+      <description>An honest look at what the Bible says about wives submitting, how the Church has read it from Chrysostom to John Paul II, and what wise partnership looks like.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261031-1821-submission-wisdom-and-the-modern-marriage.mp3" length="11970395" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261031-1821-submission-wisdom-and-the-modern-marriage.mp3</guid>
+      <pubDate>Sat, 31 Oct 2026 18:21:34 +0000</pubDate>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Razor and the Reformation</title>
+      <description>William of Ockham, Gabriel Biel, nominalism, and how they shaped Martin Luther, with Louis Bouyer&#x27;s argument from the Gospel Simplicity episode.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261029-2107-the-razor-and-the-reformation.mp3" length="12923341" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261029-2107-the-razor-and-the-reformation.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 21:07:37 +0000</pubDate>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Prophets and Bishops</title>
+      <description>Raymond Brown and other scholars on how the earliest church understood itself, from elders and the single bishop to the Spirit versus structure debate, and how the church answered the Montanist New Prophecy.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261028-2056-prophets-and-bishops.mp3" length="13394381" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261028-2056-prophets-and-bishops.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 20:56:12 +0000</pubDate>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Early Fathers on the Church</title>
+      <description>What Ignatius of Antioch, Irenaeus, and Cyprian said about bishops, the Eucharist, and unity, where Catholic and Protestant readings clash, and where the evidence is strong or thin.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261028-0256-the-early-fathers-on-the-church.mp3" length="14225284" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261028-0256-the-early-fathers-on-the-church.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 02:56:24 +0000</pubDate>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Restless Church</title>
+      <description>Sixty years of American Christianity, from the Jesus People and the megachurch to Rob Bell, the Young Restless Reformed, and the turn toward the ancient churches, and where it may be going.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261027-1105-the-restless-church.mp3" length="9536409" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261027-1105-the-restless-church.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 11:05:27 +0000</pubDate>
+      <itunes:duration>00:19:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Sword and the Scaffold</title>
+      <description>How the Church has wrestled with war and the death penalty, from the early martyrs and monks through Augustine, Trent and Pius XII to Pope Francis and Pope Leo XIV.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261027-0425-the-sword-and-the-scaffold.mp3" length="10679110" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261027-0425-the-sword-and-the-scaffold.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 04:25:22 +0000</pubDate>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Acorn and the Oak: Newman&#x27;s Middle Way on the Trinity</title>
+      <description>A lecture on how Newman&#x27;s development of doctrine stands between a Trinitarian who says the creed was always plain and a Unitarian who says it was invented.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261025-0925-the-acorn-and-the-oak-newman-s-middle-way-on-the-trinity.mp3" length="12054613" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261025-0925-the-acorn-and-the-oak-newman-s-middle-way-on-the-trinity.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 09:25:31 +0000</pubDate>
+      <itunes:duration>00:25:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Carpenter Who Found the Longitude</title>
+      <description>How John Harrison, a self taught country carpenter, built clocks of wood and brass that let sailors find their way at sea.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-2355-the-carpenter-who-found-the-longitude.mp3" length="10799064" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-2355-the-carpenter-who-found-the-longitude.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 23:55:30 +0000</pubDate>
+      <itunes:duration>00:22:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The People of the Buffalo</title>
+      <description>The Osage, Cherokee, Shawnee and Delaware along the Buffalo River from the 1700s to the early 1900s, and how they came to leave.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-1707-the-people-of-the-buffalo.mp3" length="2843838" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-1707-the-people-of-the-buffalo.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 17:07:11 +0000</pubDate>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Walking House, Episode 1: The Lantern Girl (Full Cast)</title>
+      <description>Dramatized with a full cast, music and sound effects. A lantern maker joins a wizard and his walking house. Made for Marie.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0203-the-walking-house-episode-1-the-lantern-girl-full-cast.mp3" length="8147740" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0203-the-walking-house-episode-1-the-lantern-girl-full-cast.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 02:03:09 +0000</pubDate>
+      <itunes:duration>00:16:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Unicorn of Moonlight Hollow</title>
+      <description>A short bedtime poem about a unicorn, made for Marie.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0133-the-unicorn-of-moonlight-hollow.mp3" length="269000" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0133-the-unicorn-of-moonlight-hollow.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 01:33:25 +0000</pubDate>
+      <itunes:duration>00:00:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Hidden Centuries: The Ozarks Before Europeans</title>
+      <description>The Ozarks from the time of Jesus to the arrival of Europeans, from the bluff shelters to the Osage and de Soto.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-the-hidden-centuries-the-ozarks-before-europeans.mp3" length="12983946" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-the-hidden-centuries-the-ozarks-before-europeans.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:04 +0000</pubDate>
+      <itunes:duration>00:27:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Journey of John Henry Newman</title>
+      <description>How studying the Church Fathers led John Henry Newman from Anglican priest to Catholic cardinal.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-the-journey-of-john-henry-newman.mp3" length="12726065" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-the-journey-of-john-henry-newman.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:02 +0000</pubDate>
+      <itunes:duration>00:26:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Saint Cyprian on Works and Alms</title>
+      <description>Saint Cyprian of Carthage&#x27;s treatise on almsgiving and good works, set beside the Anglican doctrine of justification by faith alone.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0033-saint-cyprian-on-works-and-alms.mp3" length="12090140" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0033-saint-cyprian-on-works-and-alms.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:33:00 +0000</pubDate>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Healing Waters of Hot Springs</title>
+      <description>The history of Hot Springs, Arkansas, and the tension between folk belief in the healing waters and the medicine of the day.</description>
+      <enclosure url="https://vinceplanetta-oss.github.io/Podcasts/episodes/20261012-0032-the-healing-waters-of-hot-springs.mp3" length="11391939" type="audio/mpeg"/>
+      <guid isPermaLink="false">20261012-0032-the-healing-waters-of-hot-springs.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 00:32:58 +0000</pubDate>
+      <itunes:duration>00:23:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
